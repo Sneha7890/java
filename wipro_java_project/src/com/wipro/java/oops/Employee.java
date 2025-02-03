@@ -29,7 +29,7 @@ public class Employee {
 	 * @param empid the empid to set
 	 */
 	public void setEmpid(int empid) {
-		Empid = empid;
+		this.Empid = empid;
 	}
 	/**
 	 * @return the empname
@@ -41,7 +41,7 @@ public class Employee {
 	 * @param empname the empname to set
 	 */
 	public void setEmpname(String empname) {
-		Empname = empname;
+		this.Empname = empname;
 	}
 	/**
 	 * @return the emprole
@@ -53,7 +53,7 @@ public class Employee {
 	 * @param emprole the emprole to set
 	 */
 	public void setEmprole(String emprole) {
-		Emprole = emprole;
+		this.Emprole = emprole;
 	}
 	/**
 	 * @return the salary
