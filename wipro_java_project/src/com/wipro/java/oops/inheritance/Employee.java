@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.wipro.java.oops;
+package com.wipro.java.oops.inheritance;
 /**
  * POJO Plane old java object thru getter and setter method
  * No constructor
