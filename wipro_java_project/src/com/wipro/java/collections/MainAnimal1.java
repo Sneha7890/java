@@ -1,5 +1,8 @@
 package com.wipro.java.collections;
-
+/*
+ * Using Comparable
+ * Creating main class for Animal1
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 

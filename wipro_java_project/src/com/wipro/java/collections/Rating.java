@@ -1,4 +1,9 @@
 package com.wipro.java.collections;
+
+/*
+ * Rating Implements Movie1 by using Comparator
+ * Creating Rating class
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

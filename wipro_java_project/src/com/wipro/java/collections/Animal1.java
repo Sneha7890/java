@@ -1,5 +1,8 @@
 package com.wipro.java.collections;
-
+/*
+ * Using Comparable
+ * Creating Animal1
+ */
 public class Animal1 implements Comparable<Animal1> {
     private String name;
     private int age;
