@@ -14,9 +14,9 @@ interface TestInterface1{
     //Default Constructor
 interface TestInterface2{
 	default void show() {
-		System.out.println("Default Testinterface2");
-	}
-}
+ 		System.out.println("Default Testinterface2");
+ 	}
+ }
 // DefaultUseCase implements two interfaces TestInterface1, TestInterface2
 class DefaultUseCase implements TestInterface1, TestInterface2 {
 public void show() {
@@ -26,7 +26,7 @@ public void show() {
 }
 //Main class
 public static void main(String args[]) {
-	DefaultUseCase d = new DefaultUseCase();//Instance objects
+	DefaultUseCase d = new DefaultUseCase();
 	d.show();
    }
 }
