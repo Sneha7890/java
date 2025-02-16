@@ -10,6 +10,7 @@ public class Flowers {
 
 	String flowername;
 	String flowercolour;
+	//Constructor 
     Flowers(String name, String colour) {
 		this.flowername=name;
 		this.flowercolour=colour;

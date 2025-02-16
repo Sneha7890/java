@@ -10,12 +10,6 @@ package com.wipro.java.oops.inheritance;
  */
 public class Developer extends Employee{
 
-	/**
-	 * 
-	 */
-	public Developer() {
-		// TODO Auto-generated constructor stub
-	}
 	public static void main(String[] args) {
 		
 		// child object is instantiated from child constructor
